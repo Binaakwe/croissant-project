@@ -1,0 +1,28 @@
+h1, p, footer {
+    text-align: center;
+}
+
+.croissant-photo {
+    max-width: 40%;
+    display: block;
+    margin: 0 auto;
+
+}
+h1 {
+    font-size: 50px;
+}
+
+p {
+    margin: 0 100px;
+    font-size: 22px;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+a {
+    margin: 0 5px;
+    
+}
